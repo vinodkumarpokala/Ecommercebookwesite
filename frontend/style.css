@@ -1,1 +1,38 @@
+body {
+    font-family: sans-serif;
+    margin: 20px;
+}
+
+#book-list {
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+.book-item {
+    border-bottom: 1px solid #eee;
+    padding: 8px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.book-item span {
+    flex-grow: 1;
+    margin-right: 10px;
+}
+
+.book-item button {
+    margin-left: 5px;
+}
+
+#add-book-form, #edit-book-form {
+    margin-top: 20px;
+    padding: 15px;
+    border: 1px solid #ccc;
+}
+
+#add-book-form div, #edit-book-form div {
+    margin-bottom: 10px;
+}
 
