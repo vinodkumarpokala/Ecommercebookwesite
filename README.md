@@ -1,7 +1,7 @@
 # Ecommercebookwesite
 sample website for testing
 
-Okay, let's outline a basic full-stack web application using Python for the frontend (with a lightweight framework), backend (with Flask), and database (with SQLite).
+a basic full-stack web application using Python for the frontend (with a lightweight framework), backend (with Flask), and database (with SQLite).
 **I. Database (SQLite)**
 SQLite is a file-based database, so you don't need a separate server running. We'll define a table for storing book information.
 # backend/database.py
